@@ -1,0 +1,21 @@
+.input-form{
+    border:none;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px #dde;
+}
+
+.card-form{
+    border: none;
+    box-shadow:  1px 1px 10px #def;
+    border-radius: 10px;
+}
+
+.btn-form{
+    width: 100%;
+    border: none;
+    background-color: rgb(172, 213, 253);
+    box-shadow: 1px 1px 20px #ccc;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}

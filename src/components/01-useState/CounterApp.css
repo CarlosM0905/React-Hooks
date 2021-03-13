@@ -1,0 +1,37 @@
+.card-counter{
+    border: none;
+    box-shadow: 1px 1px 15px #ccc;
+}
+
+.counter-text{
+    font-size: 28px;
+    text-align: center;   
+}
+
+.btn-counter{
+    width: 50%;
+    border: none;
+    background-color: #D68910;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #D35400;
+    color: white
+}
+
+.btn-counter:hover{
+    background-color: #F5B041;
+}
+
+.card-photo{
+    border-radius: 0px;
+    object-fit: contain;
+}
+
+.btn-next-quote{
+    background-color: #3498DB;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #3498DB;
+    color: white;
+    font-weight: 600;
+    width: 100%;
+}
