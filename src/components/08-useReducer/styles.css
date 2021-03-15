@@ -1,0 +1,93 @@
+.container-app{
+    height: 100vh;
+}
+
+
+.text-title-list{
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+}
+
+.card-todo-list{
+    border: none;
+    box-shadow: 1px 1px 10px #D6EAF8;
+    background-color: #EBF5FB;
+    border-radius: 10px;
+}
+
+.card-header-todo-list{
+    border: none;
+    background-color: #85C1E9;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+
+.indicator-todos{
+    background-color: #2E86C1;
+    padding: 0px 10px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #21618C;
+}
+
+.todo-description-undone{
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 18px;
+    color: #909497;
+    cursor: pointer;
+}
+
+.todo-description-done{
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 18px;
+    color: #909497;
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+
+
+.btn-delete{
+    width: 100%;
+    border: none;
+    background-color: #C0392B;
+    color: white;
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 3px 0px;
+}
+
+.btn-delete:hover{
+    box-shadow: 1px 1px 10px #922B21;
+}
+
+.input-add-todo{
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    border: none;
+    box-shadow: 1px 1px 5px #ccc;
+    border-radius: 5px;
+    padding: 3px 5px;
+}
+
+.btn-add{
+    width: 100%;
+    border: none;
+    background-color: #1A5276;
+    color: white;
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 3px 0px;
+}
+
+.btn-add:hover{
+    box-shadow: 1px 1px 10px #1A5276;
+}
